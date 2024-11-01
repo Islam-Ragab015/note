@@ -15,7 +15,10 @@
 - **Delete Notes**: Remove notes you no longer need.
 - **Simple UI**: Enjoy a clean and user-friendly interface.
 
-   Make sure you have Flutter installed on your machine. You can check the [official Flutter documentation](https://flutter.dev/docs/get-started/install) for installation instructions.
+
+## ⭐️ If you find this project useful, please give it a star! ⭐️
+Your support helps me to keep improving and maintaining this project. Thank you!
+
 
 ## Usage
 
