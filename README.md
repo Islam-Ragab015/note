@@ -31,16 +31,16 @@ Once the application is running, you can:
 
 Here are some screenshots of the **Note** app in action:
 
-![Screenshot 1](assets/images/1.jpg)  
+![Screenshot 1](assets/images/1.png)  
 *Home screen displaying all notes.*
 
-![Screenshot 2](assets/images/2.jpg)  
+![Screenshot 2](assets/images/2.png)  
 *Creating a new note.*
 
-![Screenshot 3](assets/images/3.jpg)  
+![Screenshot 3](assets/images/3.png)  
 *Editing an existing note.*
 
-![Screenshot 4](assets/images/4.jpg)  
+![Screenshot 4](assets/images/4.png)  
 *Swipe to delete a note.*
 
 ## Contributing
