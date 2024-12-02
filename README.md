@@ -6,6 +6,7 @@
 
 - [Features](#features)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 ## Features
@@ -15,10 +16,8 @@
 - **Delete Notes**: Remove notes you no longer need.
 - **Simple UI**: Enjoy a clean and user-friendly interface.
 
-
 ## ⭐️ If you find this project useful, please give it a star! ⭐️
 Your support helps me to keep improving and maintaining this project. Thank you!
-
 
 ## Usage
 
@@ -28,30 +27,44 @@ Once the application is running, you can:
 - **Edit a Note**: Select a note and use the edit option to make changes.
 - **Delete a Note**: Swipe left on a note to reveal the delete option.
 
+## Screenshots
+
+Here are some screenshots of the **Note** app in action:
+
+![Screenshot 1](assets/images/1.jpg)  
+*Home screen displaying all notes.*
+
+![Screenshot 2](assets/images/2.jpg)  
+*Creating a new note.*
+
+![Screenshot 3](assets/images/3.jpg)  
+*Editing an existing note.*
+
+![Screenshot 4](assets/images/4.jpg)  
+*Swipe to delete a note.*
+
 ## Contributing
 
-We welcome contributions to improve Note! To contribute:
+We welcome contributions to improve **Note**! To contribute:
 
 1. **Fork the Repository**: Create your copy of the repository on GitHub.
 2. **Create a Branch**: Make changes in a separate branch.
-    
-bash
+    ```bash
     git checkout -b your-branch-name
-
+    ```
 3. **Commit Your Changes**:
-    
-bash
+    ```bash
     git add .
     git commit -m "Description of your changes"
-
+    ```
 4. **Push to Your Branch**:
-    
-bash
+    ```bash
     git push origin your-branch-name
-
+    ```
 5. **Create a Pull Request**: Submit a pull request on GitHub to propose your changes.
 
 Please ensure that your code adheres to our coding standards and includes relevant tests.
 
+---
 
-Thank you for using Note! If you have any questions or issues, please feel free to open an issue or contact us.
+Thank you for using **Note**! If you have any questions or issues, please feel free to open an issue or contact us.
