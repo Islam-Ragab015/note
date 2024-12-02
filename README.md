@@ -2,7 +2,6 @@
 
 **Note** is a simple and intuitive Flutter application designed to help you take and manage notes effortlessly. With a clean interface and easy-to-use features, Note provides a seamless note-taking experience.
 
-
 ## Table of Contents
 
 - [Features](#features)
@@ -39,8 +38,10 @@ Here are some screenshots of the **Note** app in action:
 *Creating a new note.*
 
 ![Screenshot 3](assets/images/3.jpg)  
+*Editing an existing note.*
 
 ![Screenshot 4](assets/images/4.jpg)  
+*Swipe to delete a note.*
 
 ## Contributing
 
